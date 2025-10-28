@@ -1,3 +1,4 @@
-# References
+## References
 
-* octocat 1 😈
+* Jane Doe, Manager at ABC Corp
+* John Smith, Director at XYZ Inc
